@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text>lorem</Text>
+        <Text style={{marginTop: 10}}>lorem</Text>
       </View>
     </SafeAreaView>
   )
